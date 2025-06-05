@@ -25,7 +25,7 @@ hqq==0.2.5
 optimum==1.16.2
 hf_transfer
 sentencepiece
-gradio==5.23.3
+gradio==5.31.0
 
 modal==0.70.5
 pydantic==2.10.6
@@ -42,7 +42,7 @@ numpy>=1.24.4,<=2.0.1
 # qlora things
 evaluate==0.4.1
 scipy
-scikit-learn==1.4.2
+scikit-learn==1.5.1
 nvidia-ml-py==12.560.30
 art
 tensorboard
